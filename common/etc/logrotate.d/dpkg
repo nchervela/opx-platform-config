@@ -1,0 +1,18 @@
+/var/log/dpkg.log {
+	daily
+	rotate 7 
+        copytruncate
+	compress
+	missingok
+	notifempty
+	create 644 root root
+}
+/var/log/alternatives.log {
+	daily
+	rotate 7 
+        copytruncate
+	compress
+	missingok
+	notifempty
+	create 644 root root
+}
