@@ -11,7 +11,6 @@ opx-platform-config (1.4.14) unstable; urgency=medium
 
  -- Dell EMC <opx-dev@lists.openswitch.net>  Fri, 17 Aug 2018 15:40:00 -0800
 
-
 opx-platform-config (1.4.13+opx1) unstable; urgency=medium
 
   * Update: Add missing action tags in nas_detail_list.xml config file for S4200
