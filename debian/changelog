@@ -1,7 +1,9 @@
-
 opx-platform-config (1.5.0) unstable; urgency=medium
 
-  * Update: Logrotate enhancements 
+  * Update: Logrotate enhancements to prevent out-of-memory condition caused
+  *by excessively large log files.  
+
+ -- Dell EMC <opx-dev@lists.openswitch.net> Fri, 17 Aug 2018 12:20:00 -0800
 
 opx-platform-config (1.4.13+opx1) unstable; urgency=medium
 
