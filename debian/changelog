@@ -1,3 +1,7 @@
+opx-platform-config (1.5.3+opx1) unstable; urgency=medium
+
+  * feat: fanout configuration persistency 
+
 opx-platform-config (1.5.2+opx1) unstable; urgency=medium
 
   * feat: logrotate configuration enhancements 
